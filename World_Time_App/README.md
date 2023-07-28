@@ -24,6 +24,6 @@ As I am new to Flutter and app development this was an excellent project to star
 
 # Output
 
-<img src="/images/output/video1.gif](https://github.com/BloodHound31/Flutter/assets/81957270/4a440aa8-9a64-4ffd-87a8-18de84da6419)https://github.com/BloodHound31/Flutter/assets/81957270/4a440aa8-9a64-4ffd-87a8-18de84da6419" width="720" height="1280"/>
+<img src="/images/output/video1.gif](https://github.com/BloodHound31/Flutter/assets/81957270/4a440aa8-9a64-4ffd-87a8-18de84da6419)https://github.com/BloodHound31/Flutter/assets/81957270/4a440aa8-9a64-4ffd-87a8-18de84da6419" width="338" height="600"/>
 
 # 

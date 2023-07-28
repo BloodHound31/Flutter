@@ -22,9 +22,6 @@ As I am new to Flutter and app development this was an excellent project to star
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-# Output
-
-![Screen](https://github.com/BloodHound31/Flutter/assets/81957270/23a26a20-a84d-413d-9958-b9889555d265)
-
-
+# Output 
+![s](https://github.com/BloodHound31/Flutter/assets/81957270/f1177bed-f253-415a-b0a6-c7160145d476)
 # 

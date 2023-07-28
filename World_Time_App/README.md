@@ -23,9 +23,6 @@ As I am new to Flutter and app development this was an excellent project to star
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 #Output
+![Screen](https://github.com/BloodHound31/Flutter/assets/81957270/a3a220fb-e5a3-4011-b1c9-8cfa617214f5)
 
-
-
-
-https://github.com/BloodHound31/Flutter/assets/81957270/8672fcec-b8dd-4621-93cd-4ffdae160b8d
-
+#

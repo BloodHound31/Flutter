@@ -25,6 +25,6 @@ As I am new to Flutter and app development this was an excellent project to star
 # Output
 
 
-![Screen](https://github.com/BloodHound31/Flutter/assets/81957270/4a440aa8-9a64-4ffd-87a8-18de84da6419)
+![Screen](https://github.com/BloodHound31/Flutter/assets/81957270/4a440aa8-9a64-4ffd-87a8-18de84da6419 =800 x 600)
 
 # 

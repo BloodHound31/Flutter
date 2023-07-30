@@ -1,16 +1,16 @@
-# calculator
+# Calculator
 
 Calculator in Flutter
 
-## Getting Started
+# Description
+- It's a basic calculator app created in Flutter
+- 
+# Features
+- It has a theme switch to switch from light to dark mode and vice-versa
 
-This project is a starting point for a Flutter application.
+# Libraries and Resources
+- [flutter_switch: ^0.3.2](https://pub.dev/packages/flutter_switch)
+- [provider: ^6.0.5](https://pub.dev/packages/provider)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Preview
+![ezgif com-video-to-gif](https://github.com/BloodHound31/Flutter/assets/81957270/3afe74df-eb01-43fd-b1d1-d3500e0e9d69)

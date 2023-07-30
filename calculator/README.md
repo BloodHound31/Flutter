@@ -4,7 +4,7 @@ Calculator in Flutter
 
 # Description
 - It's a basic calculator app created in Flutter
-- 
+
 # Features
 - It has a theme switch to switch from light to dark mode and vice-versa
 
